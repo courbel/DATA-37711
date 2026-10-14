@@ -1,6 +1,12 @@
 # Homework 1
 
-Written answers to Problems 1-3 are in `homework_1.ipynb` (Markdown + LaTeX, plus one short numpy check after Problem 1(b)). The "Coding problems" section at the end is a placeholder for the remaining problems.
+Everything is in `homework_1.ipynb`:
+
+- Problems 1-3: written answers (Markdown + LaTeX), plus a short numpy check after Problem 1(b).
+- Problem 4: fits several sklearn regression models to the ALE dataset and tests their residuals for normality (scipy `normaltest`, Shapiro-Wilk, Q-Q plots).
+- Problem 5: placeholder, to be added.
+
+The ALE dataset ([UCI ML Repository, id 844](https://archive.ics.uci.edu/dataset/844)) is included as `data/ale.csv`, so no download is needed.
 
 ## How to run
 

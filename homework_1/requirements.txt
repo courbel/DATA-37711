@@ -1,3 +1,7 @@
 numpy
+pandas
+scipy
+scikit-learn
+matplotlib
 jupyter
 nbconvert
