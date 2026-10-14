@@ -4,7 +4,7 @@ Everything is in `homework_1.ipynb`:
 
 - Problems 1-3: written answers (Markdown + LaTeX), plus a short numpy check after Problem 1(b).
 - Problem 4: fits several sklearn regression models to the ALE dataset and tests their residuals for normality (scipy `normaltest`, Shapiro-Wilk, Q-Q plots).
-- Problem 5: placeholder, to be added.
+- Problem 5: logistic and probit regression (Breast Cancer Wisconsin) and linear regression with squared-error and Student-t losses (ALE), each implemented in JAX and trained with `optax.sgd`, compared to sklearn baselines.
 
 The ALE dataset ([UCI ML Repository, id 844](https://archive.ics.uci.edu/dataset/844)) is included as `data/ale.csv`, so no download is needed.
 
