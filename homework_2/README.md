@@ -10,7 +10,7 @@ All datasets provided with the assignment are in `data/`. Test-set predictions f
 
 ## How to run
 
-Requires Python 3.9+.
+Requires Python 3.10+ (tested with Python 3.12).
 
 ```bash
 cd homework_2
